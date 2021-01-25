@@ -1,3 +1,6 @@
+![alt text](https://github.com/Vitali-Vitali/react-login/blob/master/Screen%20Shot%202021-01-24%20at%2017.37.23.png?raw=true)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
